@@ -8,7 +8,8 @@ $imSettings['search']['general'] = array(
 	'defaultScope' => array(
 		'0' => 'index.html',
 		'4' => 'tsz-centralnoe.html',
-		'5' => 'page-5.html'
+		'5' => 'page-5.html',
+		'6' => '-yandex_b150aa5b2234c683.html'
 	),
 	'extendedScope' => array(
 	)

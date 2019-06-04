@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 	<url>
 		<loc>http://blog.caluga.top/index.html</loc>
-		<lastmod>2019-05-07</lastmod>
+		<lastmod>2019-06-04</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://blog.caluga.top/imsitemap.html</loc>
-		<lastmod>2019-05-07</lastmod>
+		<lastmod>2019-06-04</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://blog.caluga.top/tsz-centralnoe.html</loc>
-		<lastmod>2019-05-07</lastmod>
+		<lastmod>2019-06-04</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://blog.caluga.top/page-5.html</loc>
-		<lastmod>2019-05-07</lastmod>
+		<lastmod>2019-06-04</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://blog.caluga.top/-yandex_b150aa5b2234c683.html</loc>
+		<lastmod>2019-06-04</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
